@@ -6,12 +6,11 @@
   <a href="https://www.linkedin.com/in/danielacaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
 <br>
-<p>Na diversidade das minhas experiências há uma consistência no aprendizado contínuo. Geralmente me aprofundo no conhecimento de onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.
+<p>Na diversidade das minhas experiências há uma consistência no aprendizado contínuo. Geralmente me aprofundo no conhecimento de onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.</p>
 
-Meu caminho me trouxe para a tecnologia, onde sempre há algo novos aprendizados, muitos desafios, e mesmo assim é possível mergulhar profundamente em um único conhecimento.
+<p>Esse meu jeito me trouxe para a tecnologia, onde sempre há algo novo para aprender, muitos desafios e prooblemas para resolver, e mesmo assim é possível mergulhar profundamente em algum conhecimento.</p>
 
-Me dedico a aprender FrontEnd porque gosto de tornar a vida das pessoas mais simples, e com ele posso tornar a experiência do usuário mais agradável de uma forma visível: adoro poder ver o resultado final de algo que ajudei a construir!
-</p>
+<p>Me dedico a aprender FrontEnd porque gosto de tornar a vida das pessoas mais simples, e com ele eu vejo explicitamente como contribuo para tornar a experiência do usuário mais agradável!</p>
 
 ##
 
