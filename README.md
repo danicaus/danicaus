@@ -8,7 +8,7 @@
 <br>
 <p>Na diversidade das minhas experiências há uma consistência no aprendizado contínuo. Geralmente me aprofundo no conhecimento de onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.</p>
 
-<p>Esse meu jeito me trouxe para a tecnologia, onde sempre há algo novo para aprender, muitos desafios e prooblemas para resolver, e mesmo assim é possível mergulhar profundamente em algum conhecimento.</p>
+<p>Esse meu jeito me trouxe para a tecnologia, onde sempre há algo novo para aprender, muitos desafios, problemas para resolver, e mesmo assim é possível mergulhar profundamente em algum conhecimento.</p>
 
 <p>Me dedico a aprender FrontEnd porque gosto de tornar a vida das pessoas mais simples, e com ele eu vejo explicitamente como contribuo para tornar a experiência do usuário mais agradável!</p>
 
