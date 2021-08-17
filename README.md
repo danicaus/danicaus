@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou a Daniela Caus 😊 </h1>
+<h1 align="center"> Olá! Eu sou a Daniela Caus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1> 
 <div align="center">
   <a href="https://instagram.com/danicaus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter/danicaus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
