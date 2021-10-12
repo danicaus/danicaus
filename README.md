@@ -17,19 +17,24 @@
 ##
 
 <div align="center">
-  <img align="center" alt="Danicaus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Danicaus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Danicaus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Danicaus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Danicaus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Danicaus-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Danicaus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Danicaus-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Danicaus-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Danicaus-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Danicaus-JamStack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original.svg">
 </div>
 
 <br>
 <div align="center">
-  <a href="https://github.com/danicaus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danicaus&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicaus&layout=compact&langs_count=7&theme=omni"/>
+  <a href="https://github.com/danicaus" style={text-decoration:"none"} onmouseover='this.style.textDecoration="none"'>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danicaus&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicaus&layout=compact&langs_count=7&theme=omni"/>
+  </a>
 </div> 
-  
-  ![Snake animation](https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg)
 
+##
+
+  ![Snake animation](https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg)
