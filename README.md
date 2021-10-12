@@ -29,7 +29,7 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/danicaus" style={text-decoration:"none"} onmouseover='this.style.textDecoration="none"'>
+  <a href="https://github.com/danicaus" onmouseover="this.style.textDecoration='none'">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danicaus&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicaus&layout=compact&langs_count=7&theme=omni"/>
   </a>
@@ -37,4 +37,4 @@
 
 ##
 
-  ![Snake animation](https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/danicaus/danicaus/blob/output/github-contribution-grid-snake.svg)
