@@ -6,11 +6,13 @@
   <a href="https://www.linkedin.com/in/danielacaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
 <br>
-<p>Na diversidade das minhas experiências há uma consistência no aprendizado contínuo. Geralmente me aprofundo no conhecimento de onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.</p>
+<p>Na diversidade das minhas experiências há uma consistência no aprendizado contínuo. Gosto de aprofundar meu conhecimento onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.</p>
 
-<p>Esse meu jeito me trouxe para a tecnologia, onde sempre há algo novo para aprender, muitos desafios, problemas para resolver, e mesmo assim é possível mergulhar profundamente em algum conhecimento.</p>
+<p>Esse é um dos fatores que me trouxe para a tecnologia, onde sempre há algo novo para aprender, bons desafios, e onde também posso mergulhar profundamente em algum conhecimento.</p>
 
-<p>Me dedico a aprender FrontEnd porque gosto de tornar a vida das pessoas mais simples, e com ele eu vejo explicitamente como contribuo para tornar a experiência do usuário mais agradável!</p>
+<p>Com minha vivência em customer success aprendi a priorizar a melhor experiência do usuário.</p>
+
+<p>Aliado a isso, escolhi focar em frontend porque é onde sinto que posso agir para tornar a essa experiência a melhor possível, ajudando a tornar a vida das pessoas um pouco mais simples.</p>
 
 ##
 
