@@ -5,7 +5,7 @@
 </div>  
 <br>
 <section id="portuguese_profile">
-<p>Na diversidade das minhas experiências há uma consistência no aprendizado contínuo. Gosto de aprofundar meu conhecimento onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.</p>
+<p>Na quantidade meio extensa de coisas que já fiz, há uma consistência no aprendizado contínuo. Gosto de aprofundar meu conhecimento onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.</p>
 
 <p>Esse é um dos fatores que me trouxe para a tecnologia, onde sempre há algo novo para aprender, bons desafios, e onde também posso mergulhar profundamente em algum conhecimento.</p>
 
