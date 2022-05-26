@@ -4,20 +4,23 @@
   <a href="https://www.linkedin.com/in/danielacaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
 <br>
+<section id="portuguese_profile">
 <p>Na diversidade das minhas experiências há uma consistência no aprendizado contínuo. Gosto de aprofundar meu conhecimento onde atuo, mas tenho a necessidade de embarcar continuamente em novos desafios e novas experiências.</p>
 
 <p>Esse é um dos fatores que me trouxe para a tecnologia, onde sempre há algo novo para aprender, bons desafios, e onde também posso mergulhar profundamente em algum conhecimento.</p>
 
 <p>Com minha vivência em customer success aprendi a priorizar a melhor experiência do usuário. Aliado a isso, escolhi focar em frontend porque é onde sinto que posso agir para tornar a essa experiência a melhor possível, ajudando a tornar a vida das pessoas um pouco mais simples.</p>
+</section>
 
 ## English version
+<section id="english_profile">
+
 <p>In my experiences' diversity, there is a consistency in continuous learning. I enjoy deepen my knowledge envolving the area I work, but I have the need to continuously embrace new challenges and experiences.</p>
 
 <p>This is one of the factors that has brought me to technology, where there is always something new to learn, good challenges, and where I can also delve deeply into some knowledge.</p>
 
 <p>With my experience in customer success I learned to prioritize the best user experience. As a result, I chose to focus on frontend because that's where I feel I can act to make this experience the best possible, helping to make people's lives a little simpler.</p>
-
-##
+</section>
 
 <div align="center">
   <img align="center" alt="Danicaus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
