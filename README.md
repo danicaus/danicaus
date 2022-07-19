@@ -1,11 +1,12 @@
 <h1 align="center"> Oie! Eu sou a Dani Caus <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
 
 <div id="social" align="center">
-  <a href="https://www.linkedin.com/in/danielacaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter/danicaus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/danicaus/" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%230077B5?style=for-the-badge&logo=twitch&logoColor=white&labelColor=blueviolet&color=blueviolet" target="_blank"></a>
-  <a href="https://discord.gg/tspvp2DDc9" target="_blank"><img src="https://img.shields.io/badge/-Discord CollabCode-%230077B5?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet&color=blueviolet" target="_blank"></a>
-</div>  
+  <a href="https://www.linkedin.com/in/danielacaus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+  <a href="https://www.twitter/danicaus" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank"></a>
+  <a href="https://dev.to/danicaus" target="_blank"><img src="https://img.shields.io/badge/-DevTo-%230077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=black&color=black" alt="Dev.To" target="_blank"></a>
+  <a href="https://www.twitch.tv/danicaus/" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%230077B5?style=for-the-badge&logo=twitch&logoColor=white&labelColor=blueviolet&color=blueviolet" alt="Twitch" target="_blank"></a>
+  <a href="https://discord.gg/tspvp2DDc9" target="_blank"><img src="https://img.shields.io/badge/-Discord CollabCode-%230077B5?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet&color=blueviolet" alt="Discord CollabCode" target="_blank"></a>
+</div>
 
 <br>
 
