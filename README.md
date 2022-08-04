@@ -14,7 +14,6 @@
   <p>Já trabalhei em algumas áreas, sendo uma das últimas experiências em uma FinTech, na área de Relacionamento com Cliente. Acredito que isso é o que fez me encantar pelo frontend quando fiz a migração de carreira para programação.</p>
   <p>Meu foco inicial foi JavaScript, React e NextJS, e tenho buscado me aprofundar nessas tecnologias pra conseguir resolver problemas cada vez mais complexos. Isso tem me levado a estudar TypeScript, React Native, Node e GraphQL.</p>
   <p>Desde o começo dos estudos tenho me envolvido com a comunidade que faz streams, e desde abril de 2022 também comecei a estudar programação em lives na Twitch, desenvolvendo alguns projetos pessoais ou estudando de outras formas.</p>
-  <p>Venha me conhecer na Twitch!</p>
 </div>
 
 ##
