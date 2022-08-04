@@ -22,7 +22,6 @@
   <p>I've worked in a few areas, being one of my last experiences at Financial Technology company, in Customer Relationship area. I believe that's what enchanted me on frontend development, when I made my carreer migration to software development.</p>
   <p>My initial focus was JavaScript, React e NextJS, and I've been looking to delve into these technologies to be capable to solve more and more complex problems. This has led me to study TypeScript, React Native, Node and GraphQL.</p>
   <p>Since the beginning of my studies I've been involved with the stream community, and since april 2022 I also started studying online on Twitch, developing some personal projects or studying in another way.</p>
-  <p>Come meet me at Twitch!</p>
 </div>
 
 <div align="center">
