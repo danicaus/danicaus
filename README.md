@@ -5,23 +5,25 @@
   <a href="https://www.twitter.com/danicaus" target="_blank" data-description="Twitter" data-fontawesome-unicode-icon="f099" data-color="#1d9bf0"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank"></a>
   <a href="https://dev.to/danicaus" target="_blank" data-description="Dev.To" data-fontawesome-unicode-icon="f6cc" data-color="#FFFFFF"><img src="https://img.shields.io/badge/-DevTo-%230077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=black&color=black" alt="Dev.To" target="_blank"></a>
   <a href="https://www.twitch.tv/danicaus/" target="_blank" data-description="Twitch" data-fontawesome-unicode-icon="f1e8" data-color="#772ce8"><img src="https://img.shields.io/badge/-Twitch-%230077B5?style=for-the-badge&logo=twitch&logoColor=white&labelColor=blueviolet&color=blueviolet" alt="Twitch" target="_blank"></a>
-  <a href="https://discord.gg/tspvp2DDc9" target="_blank" data-description="Discord" data-fontawesome-unicode-icon="f392" data-color="#5661f5"><img src="https://img.shields.io/badge/-Discord CollabCode-%230077B5?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet&color=blueviolet" alt="Discord CollabCode" target="_blank"></a>
+  <a href="https://discord.com/invite/XQHh3yCN3C" target="_blank" data-description="Discord" data-fontawesome-unicode-icon="f392" data-color="#5661f5"><img src="https://img.shields.io/badge/-Discord Thasfin-%230077B5?style=for-the-badge&logo=discord&logoColor=white&labelColor=blueviolet&color=blueviolet" alt="Discord Thasfin" target="_blank"></a>
 </div>
 
 <br>
 
 <div id="portuguese_profile">
-  <p>Já trabalhei em algumas áreas, sendo uma das últimas experiências em uma FinTech, na área de Relacionamento com Cliente. Acredito que isso é o que fez me encantar pelo frontend quando fiz a migração de carreira para programação.</p>
-  <p>Meu foco inicial foi JavaScript, React e NextJS, e tenho buscado me aprofundar nessas tecnologias pra conseguir resolver problemas cada vez mais complexos. Isso tem me levado a estudar TypeScript, React Native, Node e GraphQL.</p>
-  <p>Desde o começo dos estudos tenho me envolvido com a comunidade que faz streams, e desde abril de 2022 também comecei a estudar programação em lives na Twitch, desenvolvendo alguns projetos pessoais ou estudando de outras formas.</p>
+  <p>Comecei a programar em 2021, durante o isolamento social, depois de ter trabalhado com <span lang="en">customer success</span> em uma <span lang="en">Fintech</span>. Minhas experiências me ensinaram a ver o lado do cliente, e também a entender que minha visão crítica pode ajudar na qualidade do que desenvolvo.</p>
+  <p>Tenho me aproximado cada vez mais de comunidades Tech que têm como valores ajudar o próximo e criar laços, com respeito à diversidade e pluralidade do ser humano.</p>
+  <p>Hoje sou desenvolvedora na Lambda 3, onde lido com tecnologias de frontend e backend.</p>
+  <p>Meu foco atual é aprofundar no JavaScript e seus frameworks frontend, juntamente com testes e CSS.</p>
 </div>
 
 ##
 
 <div id="english_profile">
-  <p>I've worked in a few areas, being one of my last experiences at Financial Technology company, in Customer Relationship area. I believe that's what enchanted me on frontend development, when I made my carreer migration to software development.</p>
-  <p>My initial focus was JavaScript, React e NextJS, and I've been looking to delve into these technologies to be capable to solve more and more complex problems. This has led me to study TypeScript, React Native, Node and GraphQL.</p>
-  <p>Since the beginning of my studies I've been involved with the stream community, and since april 2022 I also started studying online on Twitch, developing some personal projects or studying in another way.</p>
+  <p>I started programming in 2021, during social isolation, after I've worked with customer success at a Fintech. My experiences taught me to see the client's side, and also to understand that my critical view could help me develop products with more quality.</p>
+  <p>I've grown very close to Tech communities whose values are helping others and creating bonds with each other, respecting diversity and plurality of humans that must be respected.</p>
+  <p>I work as a developer at Lambda 3, where I deal with frontend and backend technologies.</p>
+  <p>My current focus is diving into JavaScript and its frameworks, along with tests and CSS.</p>
 </div>
 
 <div align="center">
