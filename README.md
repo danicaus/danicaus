@@ -11,19 +11,17 @@
 <br>
 
 <div id="portuguese_profile">
-  <p>Comecei a programar em 2021, durante o isolamento social, depois de ter trabalhado com <span lang="en">customer success</span> em uma <span lang="en">Fintech</span>. Minhas experiências me ensinaram a ver o lado do cliente, e também a entender que minha visão crítica pode ajudar na qualidade do que desenvolvo.</p>
-  <p>Tenho me aproximado cada vez mais de comunidades Tech que têm como valores ajudar o próximo e criar laços, com respeito à diversidade e pluralidade do ser humano.</p>
-  <p>Hoje sou desenvolvedora na Lambda 3, onde lido com tecnologias de frontend e backend.</p>
-  <p>Meu foco atual é aprofundar no JavaScript e seus frameworks frontend, juntamente com testes e CSS.</p>
+  <p>Sou desenvolvedora web focada em Javascript, especializada em Typescript, ReactJS e NodeJS. Além disso, também já desenvolvi em aplicações em C#, com .NET e ASP.NET.</p>
+  <p>Minha experiência como fullstack inclui a conexão com bancos de dados relacionais e não relacionais e a implementação de testes e builds automatizados. Já tive contato com arquiteturas em microsserviços e monolito, principalmente com padrões de código orientado a objetos.</p>
+  <p>Atualmente tenho focado meus estudos em aplicações microfrontend, bem como design patterns.</p>
 </div>
 
 ##
 
 <div id="english_profile">
-  <p>I started programming in 2021, during social isolation, after I've worked with customer success at a Fintech. My experiences taught me to see the client's side, and also to understand that my critical view could help me develop products with more quality.</p>
-  <p>I've grown very close to Tech communities whose values are helping others and creating bonds with each other, respecting diversity and plurality of humans that must be respected.</p>
-  <p>I work as a developer at Lambda 3, where I deal with frontend and backend technologies.</p>
-  <p>My current focus is diving into JavaScript and its frameworks, along with tests and CSS.</p>
+  <p>I’m a web developer focused on JavaScript and specialized in TypeScript, React, and Node.js. Additionally, I have experience developing apps in C# using .NET and ASP.NET.</p>
+  <p>As a full-stack developer, I’ve worked with both relational and non-relational databases, automated tests, and builds. I’ve also been exposed to microservices and monolithic architecture, primarily centered around object-oriented design patterns.</p>
+  <p>Recently, I’ve been concentrating on studying microfrontend applications and design patterns.</p>
 </div>
 
 <div align="center">
