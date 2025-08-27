@@ -22,7 +22,7 @@
 ##
 
 <div id="english_profile">
-  <p>I'm a fullstack developer passionate about financial innovation, with 4+ years of deep fintech experience. My unique journey combines 4 years of operational expertise at Pagar.me with 3+ years building high-performance systems for fintech companies.</p>
+  <p>I'm a fullstack developer passionate about financial innovation, with 4+ years of deep fintech experience. My unique journey combines 3+ years of operational expertise at Pagar.me with 2 years building high-performance systems for fintech companies.</p>
   <p>My competitive edge:</p>
   <ul>
     <li><b>Business vision + technical expertise:</b> I understand customer pain points AND know how to implement solutions</li>
