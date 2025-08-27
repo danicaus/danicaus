@@ -11,17 +11,30 @@
 <br>
 
 <div id="portuguese_profile">
-  <p>Sou desenvolvedora web focada em Javascript, especializada em Typescript, ReactJS e NodeJS. Além disso, também já desenvolvi em aplicações em C#, com .NET e ASP.NET.</p>
-  <p>Minha experiência como fullstack inclui a conexão com bancos de dados relacionais e não relacionais e a implementação de testes e builds automatizados. Já tive contato com arquiteturas em microsserviços e monolito, principalmente com padrões de código orientado a objetos.</p>
-  <p>Atualmente tenho focado meus estudos em aplicações microfrontend, bem como design patterns.</p>
+  <p>Sou desenvolvedora fullstack apaixonada por inovação financeira, com mais de 4 anos de experiência em fintechs. Minha jornada única combina mais de 3 anos de vivência operacional no Pagar.me com 2 anos desenvolvendo sistemas de alta performance para fintechs.</p>
+  <p>Meu diferencial:</p>
+  <ul>
+    <li><b>Visão de negócio + expertise técnica:</b> Entendo as dores do cliente E sei implementar a solução</li>
+    <li><b>Experiência com sistemas críticos:</b> 3M+ transações/dia, arquiteturas complexas (DDD, hexagonal, microsserviços)</li>
+    <li><b>Curiosidade natural:</b> Questiono, investigo, e sempre busco entender o "porquê" por trás dos requisitos</li>
+  </ul>
+  <p><b>Stack atual:</b> React, NestJS, TypeScript, microservices, Azure, testes automatizados</p>
+  <p>Estou sempre em busca de novos desafios em fintech onde possa contribuir com minha experiência única e paixão por sistemas que fazem a diferença. Vamos conversar! 🚀</p>
 </div>
 
 ##
 
 <div id="english_profile">
-  <p>I’m a web developer focused on JavaScript and specialized in TypeScript, React, and Node.js. Additionally, I have experience developing apps in C# using .NET and ASP.NET.</p>
-  <p>As a full-stack developer, I’ve worked with both relational and non-relational databases, automated tests, and builds. I’ve also been exposed to microservices and monolithic architecture, primarily centered around object-oriented design patterns.</p>
-  <p>Recently, I’ve been concentrating on studying microfrontend applications and design patterns.</p>
+  <p>I'm a fullstack developer passionate about financial innovation, with 4+ years of deep fintech experience. My unique journey combines 4 years of operational expertise at Pagar.me with 3+ years building high-performance systems for fintech companies.</p>
+  <p>My competitive edge:</p>
+  <ul>
+    <li><b>Business vision + technical expertise:</b> I understand customer pain points AND know how to implement solutions</li>
+    <li><b> Critical systems experience:</b> 3M+ daily transactions, complex architectures (DDD, hexagonal)</li>
+    <li><b>Natural curiosity:</b> I question, investigate, and always seek to understand the "why" behind requirements</li>
+  </ul>
+  <p><b>Current stack:</b> React, NestJS, TypeScript, microservices, Azure, automated testing</p>
+  <p>Always seeking new fintech challenges where I can contribute my unique experience and passion for systems that make a difference. Let's connect! 🚀</p>
+
 </div>
 
 <div align="center">
